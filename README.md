@@ -1,5 +1,5 @@
 # enhanced-aid
-A implement of enhanced AID (EAID)  
+A time-sortable, simple identifier  
 Inspired by syuilo's AID.  
 
 ## Specification
