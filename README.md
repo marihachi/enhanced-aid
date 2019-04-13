@@ -1,6 +1,6 @@
 # enhanced-aid
-A implement of enhanced AID (EAID)
-Inspired by syuilo's AID.
+A implement of enhanced AID (EAID)  
+Inspired by syuilo's AID.  
 
 ## Specification
 ### Description
