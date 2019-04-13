@@ -2,7 +2,14 @@
 A implement of enhanced AID (EAID)
 
 ## Specification
-Not yet written
+### Description
+#### timestamp part
+The timestamp part is base36 string made from unixtime in milliseconds.
+It must have 9 charactors.
+
+#### random part
+The random part is base36 string made from random value.
+It must have 15 charactors.
 
 ### EAID12
 - timestamp part (9 characters)
