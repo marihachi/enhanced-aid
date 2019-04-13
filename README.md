@@ -8,7 +8,7 @@ The enhanced AID have some variations of specifications.
 
 #### timestamp part
 The timestamp part is base36 string made from unixtime in milliseconds.  
-It must have 9 charactors.  
+It must have 9 charactors in the all specifications.  
 
 #### random part
 The random part is base36 string made from random value.  
