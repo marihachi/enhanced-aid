@@ -6,6 +6,12 @@ A implement of enhanced AID (EAID)
 The format of the enhanced AID consists of timestamp part and random part.  
 The enhanced AID have some variations of specifications.  
 
+```
++--------------------+--------------------+
+|   timestamp part   |     random part    |
++--------------------+--------------------+
+```
+
 #### timestamp part
 The timestamp part is base36 string made from unixtime in milliseconds.  
 It must have 9 charactors in the all specifications.  
