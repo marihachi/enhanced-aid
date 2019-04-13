@@ -9,7 +9,7 @@ It must have 9 charactors.
 
 #### random part
 The random part is base36 string made from random value.
-It must have 15 charactors.
+It must be an appropriate length of string for the target Specification(e.g. EAID12, EAID24).
 
 ### EAID12
 - timestamp part (9 characters)
