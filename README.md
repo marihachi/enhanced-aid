@@ -2,6 +2,11 @@
 A time-sortable, ultra-simple identifier.  
 Inspired by syuilo's AID.  
 
+## Installation
+```
+npm i eaid
+```
+
 ## Specification
 ### Description
 The format of the enhanced AID consists of timestamp part and random part.  
