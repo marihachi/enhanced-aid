@@ -6,8 +6,15 @@
   "scripts": {
     "build": "tsc"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marihachi/enhanced-aid.git"
+  },
   "author": "marihachi",
   "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/marihachi/enhanced-aid/issues"
+  },
   "devDependencies": {
     "typescript": "3.7.x"
   },
