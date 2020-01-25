@@ -1,0 +1,14 @@
+{
+  "name": "eaid",
+  "version": "1.0.0",
+  "description": "A time-sortable, ultra-simple identifier.",
+  "main": "built/lib.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "author": "marihachi",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "3.7.x"
+  }
+}

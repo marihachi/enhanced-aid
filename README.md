@@ -1,5 +1,5 @@
 # enhanced-aid
-A time-sortable, ultra-simple identifier  
+A time-sortable, ultra-simple identifier.  
 Inspired by syuilo's AID.  
 
 ## Specification
